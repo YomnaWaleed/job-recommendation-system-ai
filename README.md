@@ -20,9 +20,8 @@
   ## 📌 How to Run
   1. Clone this repository:
     ```sh
-    git clone https://github.com/YOUR_GITHUB_USERNAME/job-recommendation-system.git
-    cd job-recommendation-system
-
+    git clone https://github.com/YomnaWaleed/job-recommendation-system-ai.git
+    cd job-recommendation-system-ai
 
 # 2) Install the dependencies:
   pip install -r requirements.txt
